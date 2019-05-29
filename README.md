@@ -5,7 +5,7 @@ smart company practice with todolist
 
 ### This the  producted  display :
 
-！[todoImage](https://github.com/lisong12/todolist/blob/master/todo.png)
+！[image](https://github.com/lisong12/todolist/blob/master/todo.png)
 
 #### Description
 
